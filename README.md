@@ -1,10 +1,11 @@
 Всем привет, здесь можно бесплатно скачать версию Project Deathless на ПК.
 
 Что-бы скачать перейдите на вкладку Releases, выберите нужную версию и скачайте zip.
+
 (Не рекомендую запускать напрямую из архива, желательно разархивировать)
 
 
-—Ссылки—
+—————————— Ссылки ——————————
 
 Игра(Плеймаркет): https://play.google.com/store/apps/details?id=com.Deathless_Team.ProjectDeathless
 
@@ -14,6 +15,6 @@ YouTube: https://www.youtube.com/channel/UCnSsjAlOd6KG7cr7x_O6m5w?app=desktop
 
 Веб-сайт: https://projectdeathless.wordpress.com/
 
-—Сохранения—
+————————— Сохранения —————————
 
 Сохранения находятся здесь: C:\Users\[Имя компа]\AppData\LocalLow\Deathless_Team\Project Deathless
