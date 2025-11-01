@@ -16,3 +16,5 @@ YouTube: https://www.youtube.com/channel/UCnSsjAlOd6KG7cr7x_O6m5w
 ————————— Сохранения —————————
 
 Сохранения находятся здесь: C:\Users\ [Имя пк] \AppData\LocalLow\Deathless_Team\Project Deathless
+ 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q31NQMTL)
